@@ -1,0 +1,117 @@
+2025-08-12 17:45:31,797 - Track ID 1 at frame 20: Main direction = stationary
+2025-08-12 17:45:32,452 - Track ID 1 at frame 40: Main direction = stationary
+2025-08-12 17:45:32,814 - Track ID 1 at frame 50: Main direction = down
+2025-08-12 17:45:33,207 - Track ID 1 at frame 60: Main direction = down
+2025-08-12 17:45:33,567 - Track ID 1 at frame 70: Main direction = down
+2025-08-12 17:45:33,567 - Track ID 4 at frame 70: Main direction = left
+2025-08-12 17:45:33,567 - Track ID 5 at frame 70: Main direction = down
+2025-08-12 17:45:33,929 - Track ID 1 at frame 80: Main direction = down
+2025-08-12 17:45:33,929 - Track ID 4 at frame 80: Main direction = stationary
+2025-08-12 17:45:33,929 - Track ID 5 at frame 80: Main direction = down
+2025-08-12 17:45:34,349 - Track ID 1 at frame 90: Main direction = stationary
+2025-08-12 17:45:34,349 - Track ID 4 at frame 90: Main direction = stationary
+2025-08-12 17:45:34,350 - Track ID 5 at frame 90: Main direction = down
+2025-08-12 17:45:34,673 - Track ID 1 at frame 100: Main direction = stationary
+2025-08-12 17:45:34,673 - Track ID 4 at frame 100: Main direction = stationary
+2025-08-12 17:45:34,673 - Track ID 5 at frame 100: Main direction = stationary
+2025-08-12 17:45:34,833 - Track ID 5 is moving (lateral movement detected)
+2025-08-12 17:45:34,998 - Track ID 1 at frame 110: Main direction = down
+2025-08-12 17:45:34,998 - Track ID 4 at frame 110: Main direction = stationary
+2025-08-12 17:45:34,998 - Track ID 5 at frame 110: Main direction = stationary
+2025-08-12 17:45:35,066 - Track ID 4 is moving (depth movement detected)
+2025-08-12 17:45:35,163 - Track ID 1 is moving (lateral movement detected)
+2025-08-12 17:45:35,331 - Track ID 1 at frame 120: Main direction = stationary
+2025-08-12 17:45:35,331 - Track ID 4 at frame 120: Main direction = stationary
+2025-08-12 17:45:35,331 - Track ID 5 at frame 120: Main direction = down
+2025-08-12 17:45:35,666 - Track ID 1 at frame 130: Main direction = stationary
+2025-08-12 17:45:35,666 - Track ID 4 at frame 130: Main direction = stationary
+2025-08-12 17:45:35,666 - Track ID 5 at frame 130: Main direction = down
+2025-08-12 17:45:35,991 - Track ID 1 at frame 140: Main direction = stationary
+2025-08-12 17:45:35,991 - Track ID 4 at frame 140: Main direction = stationary
+2025-08-12 17:45:35,991 - Track ID 5 at frame 140: Main direction = down
+2025-08-12 17:45:36,134 - Track ID 4 was a false positive: center still inside bbox from frame 64
+2025-08-12 17:45:36,163 - Track ID 4 is moving (depth movement detected)
+2025-08-12 17:45:36,163 - Track ID 4 was a false positive: center still inside bbox from frame 65
+2025-08-12 17:45:36,199 - Track ID 4 is moving (depth movement detected)
+2025-08-12 17:45:36,199 - Track ID 4 was a false positive: center still inside bbox from frame 66
+2025-08-12 17:45:36,232 - Track ID 4 is moving (depth movement detected)
+2025-08-12 17:45:36,319 - Track ID 1 at frame 150: Main direction = stationary
+2025-08-12 17:45:36,319 - Track ID 4 at frame 150: Main direction = down
+2025-08-12 17:45:36,319 - Track ID 5 at frame 150: Main direction = down
+2025-08-12 17:45:36,403 - Track ID 4 was a false positive: center still inside bbox from frame 73
+2025-08-12 17:45:36,434 - Track ID 4 is moving (depth movement detected)
+2025-08-12 17:45:36,434 - Track ID 4 was a false positive: center still inside bbox from frame 74
+2025-08-12 17:45:36,468 - Track ID 4 is moving (depth movement detected)
+2025-08-12 17:45:36,468 - Track ID 4 was a false positive: center still inside bbox from frame 75
+2025-08-12 17:45:36,496 - Track ID 4 is moving (depth movement detected)
+2025-08-12 17:45:36,496 - Track ID 4 was a false positive: center still inside bbox from frame 76
+2025-08-12 17:45:36,526 - Track ID 4 is moving (depth movement detected)
+2025-08-12 17:45:36,526 - Track ID 4 was a false positive: center still inside bbox from frame 77
+2025-08-12 17:45:36,556 - Track ID 4 is moving (depth movement detected)
+2025-08-12 17:45:36,619 - Track ID 1 at frame 160: Main direction = stationary
+2025-08-12 17:45:36,619 - Track ID 4 at frame 160: Main direction = left
+2025-08-12 17:45:36,619 - Track ID 5 at frame 160: Main direction = down
+2025-08-12 17:45:36,961 - Track ID 1 at frame 170: Main direction = stationary
+2025-08-12 17:45:36,961 - Track ID 4 at frame 170: Main direction = left
+2025-08-12 17:45:36,961 - Track ID 5 at frame 170: Main direction = down
+2025-08-12 17:45:37,342 - Track ID 1 at frame 180: Main direction = stationary
+2025-08-12 17:45:37,343 - Track ID 4 at frame 180: Main direction = left
+2025-08-12 17:45:37,343 - Track ID 5 at frame 180: Main direction = down
+2025-08-12 17:45:37,343 - Track ID 7 at frame 180: Main direction = down
+2025-08-12 17:45:37,343 - Track ID 8 at frame 180: Main direction = left
+2025-08-12 17:45:37,660 - Track ID 1 at frame 190: Main direction = stationary
+2025-08-12 17:45:37,660 - Track ID 4 at frame 190: Main direction = left
+2025-08-12 17:45:37,660 - Track ID 5 at frame 190: Main direction = down
+2025-08-12 17:45:37,660 - Track ID 7 at frame 190: Main direction = stationary
+2025-08-12 17:45:37,660 - Track ID 8 at frame 190: Main direction = stationary
+2025-08-12 17:45:37,982 - Track ID 1 at frame 200: Main direction = stationary
+2025-08-12 17:45:37,982 - Track ID 4 at frame 200: Main direction = left
+2025-08-12 17:45:37,982 - Track ID 5 at frame 200: Main direction = down
+2025-08-12 17:45:37,982 - Track ID 7 at frame 200: Main direction = down
+2025-08-12 17:45:37,982 - Track ID 8 at frame 200: Main direction = stationary
+2025-08-12 17:45:38,361 - Track ID 1 at frame 210: Main direction = stationary
+2025-08-12 17:45:38,361 - Track ID 4 at frame 210: Main direction = left
+2025-08-12 17:45:38,361 - Track ID 5 at frame 210: Main direction = down
+2025-08-12 17:45:38,361 - Track ID 7 at frame 210: Main direction = down
+2025-08-12 17:45:38,361 - Track ID 8 at frame 210: Main direction = stationary
+2025-08-12 17:45:38,361 - Track ID 9 at frame 210: Main direction = stationary
+2025-08-12 17:45:38,391 - Track ID 8 is moving (lateral movement detected)
+2025-08-12 17:45:38,685 - Track ID 1 at frame 220: Main direction = stationary
+2025-08-12 17:45:38,685 - Track ID 4 at frame 220: Main direction = left
+2025-08-12 17:45:38,685 - Track ID 5 at frame 220: Main direction = down
+2025-08-12 17:45:38,685 - Track ID 7 at frame 220: Main direction = stationary
+2025-08-12 17:45:38,685 - Track ID 8 at frame 220: Main direction = stationary
+2025-08-12 17:45:38,685 - Track ID 9 at frame 220: Main direction = right
+2025-08-12 17:45:38,867 - Track ID 7 is moving (lateral movement detected)
+2025-08-12 17:45:38,987 - Track ID 1 at frame 230: Main direction = stationary
+2025-08-12 17:45:38,987 - Track ID 4 at frame 230: Main direction = left
+2025-08-12 17:45:38,987 - Track ID 5 at frame 230: Main direction = down
+2025-08-12 17:45:38,987 - Track ID 7 at frame 230: Main direction = down
+2025-08-12 17:45:38,987 - Track ID 8 at frame 230: Main direction = stationary
+2025-08-12 17:45:38,987 - Track ID 9 at frame 230: Main direction = right
+2025-08-12 17:45:39,362 - Track ID 1 at frame 240: Main direction = stationary
+2025-08-12 17:45:39,362 - Track ID 4 at frame 240: Main direction = left
+2025-08-12 17:45:39,363 - Track ID 5 at frame 240: Main direction = down
+2025-08-12 17:45:39,363 - Track ID 7 at frame 240: Main direction = down
+2025-08-12 17:45:39,363 - Track ID 8 at frame 240: Main direction = stationary
+2025-08-12 17:45:39,363 - Track ID 9 at frame 240: Main direction = right
+2025-08-12 17:45:39,736 - Track ID 1 at frame 250: Main direction = stationary
+2025-08-12 17:45:39,736 - Track ID 4 at frame 250: Main direction = left
+2025-08-12 17:45:39,737 - Track ID 5 at frame 250: Main direction = down
+2025-08-12 17:45:39,737 - Track ID 7 at frame 250: Main direction = down
+2025-08-12 17:45:39,737 - Track ID 8 at frame 250: Main direction = stationary
+2025-08-12 17:45:39,737 - Track ID 9 at frame 250: Main direction = right
+2025-08-12 17:45:40,132 - Track ID 1 at frame 260: Main direction = stationary
+2025-08-12 17:45:40,132 - Track ID 4 at frame 260: Main direction = left
+2025-08-12 17:45:40,132 - Track ID 5 at frame 260: Main direction = down
+2025-08-12 17:45:40,132 - Track ID 7 at frame 260: Main direction = down
+2025-08-12 17:45:40,132 - Track ID 8 at frame 260: Main direction = stationary
+2025-08-12 17:45:40,133 - Track ID 9 at frame 260: Main direction = right
+2025-08-12 17:45:40,133 - Track ID 10 at frame 260: Main direction = stationary
+2025-08-12 17:45:40,525 - Track ID 1 at frame 270: Main direction = stationary
+2025-08-12 17:45:40,525 - Track ID 4 at frame 270: Main direction = left
+2025-08-12 17:45:40,525 - Track ID 5 at frame 270: Main direction = down
+2025-08-12 17:45:40,525 - Track ID 7 at frame 270: Main direction = down
+2025-08-12 17:45:40,525 - Track ID 8 at frame 270: Main direction = stationary
+2025-08-12 17:45:40,525 - Track ID 9 at frame 270: Main direction = right
+2025-08-12 17:45:40,525 - Track ID 10 at frame 270: Main direction = left
